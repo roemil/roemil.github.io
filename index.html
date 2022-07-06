@@ -2,6 +2,10 @@
 <head>
 <title>Run my Python files</title>
 <?PHP
-echo shell_exec("python ../../cpp_projects/avboka_plan/python/main.py'");
+$output=shell_exec('/usr/bin/python ../../cpp_projects/avboka_plan/python/main.py');
+echo "<pre>";
+print_r($output);
+echo "</pre>";
+echo shell_exec("python ../../cpp_projects/avboka_plan/python/main.py");
 ?>
 </head>
