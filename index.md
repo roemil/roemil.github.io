@@ -3,7 +3,7 @@
 * [Main](https://roemil.github.io/codechallengesfyi/)
 * [IRC Client](https://roemil.github.io/codechallengesfyi/ccirc/)
 * [Redis Database](https://github.com/roemil/codechallengesfyi/tree/master/ccredis)
-* [Spellcheck](https://github.com/roemil/codechallengesfyi/tree/master/ccspell)
+* [Spellcheck](https://github.com/roemil/codechallengesfyi/tree/master/ccspell/index.md)
 
 ## Codec
 * [Encoder/Decoder](https://github.com/roemil/cpp_codec)
