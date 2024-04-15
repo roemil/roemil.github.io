@@ -1,6 +1,6 @@
 
 ## Coding Challenges:
-* [Main](https://roemil.github.io/codechallengesfyi/)
+* [Main repo](https://roemil.github.io/codechallengesfyi/)
 * [IRC Client](https://roemil.github.io/codechallengesfyi/ccirc/)
 * [Redis Database](https://github.com/roemil/codechallengesfyi/tree/master/ccredis)
 * [Spellcheck](https://roemil.github.io/codechallengesfyi/ccspell/)
