@@ -1,4 +1,7 @@
 
+# Portfolio
+This site is for collection my portfolio. My projects are for learning purposes only, where some projects are more mature than others.
+
 ## Coding Challenges:
 * [Main repo](https://roemil.github.io/codechallengesfyi/)
 * [IRC Client](https://roemil.github.io/codechallengesfyi/ccirc/)
