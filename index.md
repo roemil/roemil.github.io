@@ -11,7 +11,7 @@ This site is for collection my portfolio. My projects are for learning purposes 
 * [grep](https://github.com/roemil/codechallengesfyi/tree/master/ccgrep)
 
 ## Codec
-* [Encoder/Decoder](https://roemil.github.io/cpp_codec)
+* [Encoder/Decoder](https://github.com/roemil/cpp_codec)
 
 ## Misc C++
 * [Own implementation of std::vector](https://github.com/roemil/Containers/blob/master/vector/include/SmartVector.h)
