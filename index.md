@@ -3,7 +3,7 @@
 This site is for collection my portfolio. My projects are for learning purposes only, where some projects are more mature than others.
 
 ## Coding Challenges:
-* [Main repo](https://roemil.github.io/codechallengesfyi/)
+* [Main repo](https://github.com/roemil/codechallengesfyi)
 * [IRC Client](https://roemil.github.io/codechallengesfyi/ccirc/)
 * [Redis Database](https://github.com/roemil/codechallengesfyi/tree/master/ccredis)
 * [Spellcheck](https://roemil.github.io/codechallengesfyi/ccspell/)
