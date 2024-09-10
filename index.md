@@ -16,8 +16,6 @@ I have implemented RSA Support for the Tkey SSH Agent:
 * [JSON Parser](https://github.com/roemil/codechallengesfyi/tree/master/jsonparser)
 * [grep](https://github.com/roemil/codechallengesfyi/tree/master/ccgrep)
 * [Encoder/Decoder](https://github.com/roemil/cpp_codec)
-
-## Misc C++
 * [Own implementation of std::vector](https://github.com/roemil/Containers/blob/master/vector/include/SmartVector.h)
 * [Own implementation of std::array](https://github.com/roemil/Containers/blob/master/array/include/array.h)
 
