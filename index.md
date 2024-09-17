@@ -25,3 +25,4 @@ I have implemented RSA Support for the Tkey SSH Agent:
 * [HTTP Load tester](https://github.com/roemil/codechallengesfyi/tree/master/ccload)
 * [HTTP Server](https://github.com/roemil/codechallengesfyi/tree/master/ccserver)
 * [Forward Proxy](https://github.com/roemil/codechallengesfyi/tree/master/ccproxy)
+* [Weight and balance calculator for small airplanes](https://github.com/roemil/wbl)
