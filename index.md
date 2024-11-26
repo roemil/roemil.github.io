@@ -21,9 +21,9 @@ I have implemented RSA Support for the Tkey SSH Agent:
 * [Own implementation of std::array](https://github.com/roemil/Containers/blob/master/array/include/array.h)
 
 ## Rust
+* [Weight and balance calculator for small airplanes](https://github.com/roemil/wbl)
 * [Make it rain](https://github.com/roemil/make_it_rain)
 * [Multi chat](https://github.com/roemil/codechallengesfyi/tree/master/mchat)
 * [HTTP Load tester](https://github.com/roemil/codechallengesfyi/tree/master/ccload)
 * [HTTP Server](https://github.com/roemil/codechallengesfyi/tree/master/ccserver)
 * [Forward Proxy](https://github.com/roemil/codechallengesfyi/tree/master/ccproxy)
-* [Weight and balance calculator for small airplanes](https://github.com/roemil/wbl)
