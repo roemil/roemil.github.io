@@ -9,6 +9,7 @@ I have implemented RSA Support for the Tkey SSH Agent:
 * [Go Client for signer](https://github.com/roemil/tkeysign)
 
 ## C++:
+* [Custom Allocators](https://github.com/roemil/Allocator/)
 * [IRC Client](https://roemil.github.io/codechallengesfyi/ccirc/)
 * [Redis Database](https://github.com/roemil/codechallengesfyi/tree/master/ccredis)
 * [Spellcheck](https://roemil.github.io/codechallengesfyi/ccspell/)
